@@ -1,0 +1,25 @@
+.title {
+  font-size: 50px;
+  text-align: center;
+}
+.timer {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.value {
+  border: 1px solid tomato;
+  font-size: 40px;
+  padding: 10px;
+  background-color: teal;
+  color: black;
+}
+.label {
+  border: 1px solid tomato;
+  font-size: 40px;
+  padding: 10px;
+  margin-right: 20px;
+  background-color: black;
+  color: white;
+}
